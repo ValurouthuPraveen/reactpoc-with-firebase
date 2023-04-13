@@ -1,0 +1,22 @@
+.delicacyPrice {
+  float: right;
+  font-size: 20px;
+  font-weight: 700;
+  color: #34117e;
+}
+.categoryCard {
+  padding: 30px;
+}
+.imageResolution {
+  height: 200px;
+  inline-size: auto;
+}
+.addProductBtn {
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+}
+.cardHeader {
+    display: flex;
+    justify-content: space-between;
+}

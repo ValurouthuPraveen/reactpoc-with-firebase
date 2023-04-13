@@ -1,0 +1,10 @@
+.categoryDetails {
+    display: flex;
+}
+
+.websiteLink {
+    text-decoration: none;
+}
+.mb-16 {
+    margin-bottom: 16px;
+}
